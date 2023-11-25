@@ -17,6 +17,7 @@ Finaacial Services was decomposed into three core microservices. All of them are
 
 #### Account service
 Contains general user input logic and validation: incomes/expenses items, savings and account settings.
+Management of account features 
 
 Method	| Path	| Description	| User authenticated	| Available from UI
 ------------- | ------------------------- | ------------- |:-------------:|:----------------:|
